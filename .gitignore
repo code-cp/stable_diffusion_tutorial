@@ -1,3 +1,4 @@
-.vscode 
-/data
-/tmp 
+.vscode
+__pycache__/ 
+data/
+tmp/
